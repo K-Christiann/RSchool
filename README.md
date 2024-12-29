@@ -7,8 +7,8 @@ This project represents my very first front-end website development experience. 
 - **Interactive Elements**: JavaScript and Chart.js are used to add dynamic interactions and functionality, including data visualization.
 - **Chart.js Integration**: Includes visually engaging charts to represent data in a clear and interactive manner.
 - **Clean and Simple Layout**: The website emphasizes a user-friendly design with easy navigation.
-##Live Demo
-- **ACCESS THE WEBSITE HERE**: Link: https://k-christiann.github.io/RSchool/
+## Live Demo
+**ACCESS THE WEBSITE HERE** Link: https://k-christiann.github.io/RSchool/
 ## Technologies Used:
 - **HTML**: Structuring the content of the website.
 - **CSS**: Styling the website, including layout, colors, fonts, and responsiveness.
